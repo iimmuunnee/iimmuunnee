@@ -41,7 +41,6 @@
         <img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat-round&logo=opencv&logoColor=white"> 
         <img src="https://img.shields.io/badge/pandas-150458?style=flat-round&logo=pandas&logoColor=white"> 
     <!-- Others -->
-    <br/>
     <p><strong>Others</strong></p>
     <div>
       <img src="https://camo.githubusercontent.com/9703f87cb52c8ed6ed02c96d1b2323c813ac47be6873ebe2c587d7e5134602f5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41646f62652050686f746f73686f702d3331413846463f7374796c653d666c61742d726f756e64266c6f676f3d41646f62652050686f746f73686f70266c6f676f436f6c6f723d7768697465"
