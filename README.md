@@ -22,6 +22,7 @@
     <p><strong>Framework</strong></p>
     <div>
         <img src="https://img.shields.io/badge/express.js-000000?style=flat-round&logo=express&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-round&logo=Flask&logoColor=white"> 
     </div>
     <!-- Database -->
     <p><strong>Database</strong></p>
@@ -33,6 +34,7 @@
     <p><strong>AI/ML</strong></p>
         <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-round&logo=tensorflow&logoColor=white"> 
         <img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat-round&logo=opencv&logoColor=white"> 
+        <img src="https://img.shields.io/badge/pandas-150458?style=flat-round&logo=pandas&logoColor=white"> 
     <!-- Others -->
     <p><strong>Others</strong></p>
     <div>
