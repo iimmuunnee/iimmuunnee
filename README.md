@@ -61,7 +61,7 @@ username=iimmuunnee&hide=jyupeternotebook&layout=compact&theme=nord&hide_border=
     <div/>
     </br>
     <div>
-        <a href="https://solved.ac/glgmsl" rel="nofollow"><img src="https://camo.githubusercontent.com/063e48b2c69156cba22ffaab7d53fbcbcd2aa8c42d894f657534394ce2184570/687474703a2f2f6d617a617373756d6e6964612e7774662f6170692f76322f67656e65726174655f62616467653f626f6a3d726561736f6e73" alt="Solved.ac 프로필" data-canonical-src="http://mazassumnida.wtf/api/v2/generate_badge?boj=glgmsl)](https://solved.ac/glgmsl" style="max-width: 100%;"></a>
+        <a href="https://solved.ac/glgmsl" rel="nofollow"><img src="https://camo.githubusercontent.com/063e48b2c69156cba22ffaab7d53fbcbcd2aa8c42d894f657534394ce2184570/687474703a2f2f6d617a617373756d6e6964612e7774662f6170692f76322f67656e65726174655f62616467653f626f6a3d726561736f6e73" alt="Solved.ac 프로필" data-canonical-src="http://mazassumnida.wtf/api/v2/generate_badge?boj=glgmsl" style="max-width: 100%;"></a>
     </div>
     
 </div>
