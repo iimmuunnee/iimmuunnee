@@ -6,6 +6,7 @@
         <img src="https://img.shields.io/badge/JavaScript-FF9A00?style=flat-round&logo=JavaScript&logoColor=white"> 
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-round&logo=python&logoColor=white"> 
     </div>
+    <br/>
     <p><strong>Front-end</strong></p>
     <div>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-round&logo=html5&logoColor=white" > 
