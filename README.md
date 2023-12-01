@@ -54,7 +54,7 @@
           >
       <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat-round&logo=Adobe After Effects&logoColor=white">
 </div><br>
-    <a href="https://github.com/iimmuunnee"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iimmuunnee&layout=compact&theme=nord&hide_border=true" /></a> 
+    <a href="https://github.com/iimmuunnee"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iimmuunnee&hide=jyupeternotebook&layout=compact&theme=nord&hide_border=true" /></a> 
 </div>
 
 <!--
