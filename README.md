@@ -11,7 +11,7 @@
     <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Node.js-61DAFB?style=flat-round&logo=React&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-round&logo=Node&logoColor=white"> 
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-round&logo=python&logoColor=white"> 
     </div>
     <!-- Database -->
