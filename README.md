@@ -22,10 +22,11 @@
     </div>
     <br/>
     <!-- Framework -->
-    <p><strong>Framework</strong></p>
+    <p><strong>Framework & Library</strong></p>
     <div>
         <img src="https://img.shields.io/badge/express.js-000000?style=flat-round&logo=express&logoColor=white"> 
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-round&logo=Flask&logoColor=white"> 
+        <img src="https://img.shields.io/badge/socket.io-000000?style=flat-round&logo=Sokcet.io&logoColor=white"> 
     </div>
     <br/>
     <!-- Database -->
