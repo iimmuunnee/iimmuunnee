@@ -21,7 +21,7 @@
     <!-- Framework -->
     <p><strong>Framework</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-round&logo=Express.js&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-round&logo=express&logoColor=white"> 
     </div>
     <!-- Database -->
     <p><strong>Database</strong></p>
