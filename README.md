@@ -5,7 +5,7 @@
     <div>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-round&logo=html5&logoColor=white" > 
         <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-round&logo=css3&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-round&logo=javascript&logoColor=white"> 
+        <img src="https://img.shields.io/badge/JavaScript-FF9A00?style=flat-round&logo=JavaScript&logoColor=white"> 
         <img src="https://img.shields.io/badge/React.js-6EC0EB?style=flat-round&logo=React&logoColor=white"> 
     </div>
     <!-- Backend -->
