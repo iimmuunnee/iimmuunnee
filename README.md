@@ -24,7 +24,7 @@
     <p><strong>Others</strong></p>
     <div>
       <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-round&logo=bootstrap&logoColor=white">
-      <img src="https://img.shields.io/badge/AdobePotoshop-31A8FF?style=flat-round&logo=AdobePotoshop&logoColor=white">
+      <img src="https://img.shields.io/badge/Adobe Potoshop-31A8FF?style=flat-round&logo=adobepotoshop&logoColor=white">
 </div><br>
 </div>
 
