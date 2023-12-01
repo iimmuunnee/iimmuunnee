@@ -59,6 +59,8 @@
 <!--
 **iimmuunnee/iimmuunnee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://simpleicons.org/
+사용방법
+<img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
