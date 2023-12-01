@@ -32,7 +32,7 @@
           >
       <img src="https://camo.githubusercontent.com/b96967a8b25cbbee422d7e1d3f44642e6160c4184b95ab5fb5f57351d6b00f9e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41646f6265205072656d696572652050726f2d3939393946463f7374796c653d666c61742d726f756e64266c6f676f3d41646f6265205072656d696572652050726f266c6f676f436f6c6f723d7768697465"
           >
-      <img src="https://img.shields.io/badge/Adobe AfterEffects-9999FF?style=flat-round&logo=Adobe After Effects&logoColor=white"
+      <img src="https://img.shields.io/badge/Adobe AfterEffects-9999FF?style=flat-round&logo=Adobe AfterEffects&logoColor=white"
           >
 </div><br>
 </div>
