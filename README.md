@@ -26,7 +26,7 @@
     <div>
         <img src="https://img.shields.io/badge/express.js-000000?style=flat-round&logo=express&logoColor=white"> 
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-round&logo=Flask&logoColor=white"> 
-        <img src="https://img.shields.io/badge/socket.io-000000?style=flat-round&logo=Socket.io&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-round&logo=Socket.io&logoColor=white"> 
     </div>
     <br/>
     <!-- Database -->
