@@ -1,13 +1,21 @@
-## 🔨  Skills 🔨
+<h1>👀 About Me</h1> 
+</hr>
+<p dir='auto'>
+    <storng>안녕하세요!</storng>
+    <p>코드의 원리와 작성 근거를 중요하게 생각하는 개발자 임휘훈입니다.</p>
+    <p>프론트 개발로 개발을 시작하였지만 백엔드 개발 경험 후 백엔드에 흥미가 생겨 백엔드 공부를 하며 성장하고 있습니다.</p>
+    <p>배울 점이 많은 백엔드 개발자가 되는 것을 목표로 독학하고 있습니다.</p>
+</p>
+<h1>🔨 Skills </h1>
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Frontend -->
-    <p><strong>Programming Languages</strong></p>
+    <h3><strong>Programming Languages</strong></h3>
     <div>
         <img src="https://img.shields.io/badge/JavaScript-FF9A00?style=flat-round&logo=JavaScript&logoColor=white"> 
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-round&logo=python&logoColor=white"> 
     </div>
     <br/>
-    <p><strong>Front-end</strong></p>
+    <h3><strong>Front-end</strong></h3>
     <div>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-round&logo=html5&logoColor=white" > 
         <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-round&logo=css3&logoColor=white"> 
@@ -16,13 +24,13 @@
     </div>
     <br/>
     <!-- Backend -->
-    <p><strong>Back-end</strong></p>
+    <h3><strong>Back-end</strong></h3>
     <div>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-round&logo=Node.js&logoColor=white"> 
     </div>
     <br/>
     <!-- Framework -->
-    <p><strong>Framework & Library</strong></p>
+    <h3><strong>Framework & Library</strong></h3>
     <div>
         <img src="https://img.shields.io/badge/express.js-000000?style=flat-round&logo=express&logoColor=white"> 
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-round&logo=Flask&logoColor=white"> 
@@ -30,21 +38,21 @@
     </div>
     <br/>
     <!-- Database -->
-    <p><strong>Database</strong></p>
+    <h3><strong>Database</strong></h3>
     <div>
         <img src="https://img.shields.io/badge/oracle-F80000?style=flat-round&logo=oracle&logoColor=white"> 
         <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-round&logo=mysql&logoColor=white"> 
     </div>
     <br/>
     <!-- AI/ML -->
-    <p><strong>AI/ML</strong></p>
+    <h3><strong>AI/ML</strong></h3>
         <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-round&logo=tensorflow&logoColor=white"> 
         <img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat-round&logo=opencv&logoColor=white"> 
         <img src="https://img.shields.io/badge/pandas-150458?style=flat-round&logo=pandas&logoColor=white"> 
     <!-- Others -->
     <br/>
     <br/>
-    <p><strong>Others</strong></p>
+    <h3><strong>Others</strong></h3>
     <div>
         <img src="https://camo.githubusercontent.com/9703f87cb52c8ed6ed02c96d1b2323c813ac47be6873ebe2c587d7e5134602f5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41646f62652050686f746f73686f702d3331413846463f7374796c653d666c61742d726f756e64266c6f676f3d41646f62652050686f746f73686f70266c6f676f436f6c6f723d7768697465"
           >
@@ -59,7 +67,7 @@
         <a href="https://github.com/iimmuunnee"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?                
 username=iimmuunnee&hide=jyupeternotebook&layout=compact&theme=nord&hide_border=true&langs_count=4" /></a> 
     <div/>
-    </br>
+    </hr>
     <div>
                 <a href="https://github.com/iimmuunnee"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?                
 username=iimmuunnee&hide=jyupeternotebook&layout=compact&theme=nord&hide_border=true&langs_count=4" /></a> 
