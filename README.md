@@ -27,13 +27,13 @@
     <h3><strong>Back-end</strong></h3>
     <div>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-round&logo=Node.js&logoColor=white"> 
-        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-round&logo=NestJS&logoColor=white"> 
     </div>
     <br/>
     <!-- Framework -->
     <h3><strong>Framework & Library</strong></h3>
     <div>
         <img src="https://img.shields.io/badge/express.js-000000?style=flat-round&logo=express&logoColor=white"> 
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-round&logo=NestJS&logoColor=white"> 
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-round&logo=Flask&logoColor=white"> 
         <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-round&logo=Socket.io&logoColor=white"> 
     </div>
