@@ -12,7 +12,8 @@
     <h3><strong>Programming Languages</strong></h3>
     <div>
         <img src="https://img.shields.io/badge/JavaScript-FF9A00?style=flat-round&logo=JavaScript&logoColor=white"> 
-        <img src="https://img.shields.io/badge/python-3776AB?style=flat-round&logo=python&logoColor=white"> 
+        <img src="https://img.shields.io/badge/python-3776AB?style=flat-round&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-round&logo=c&logoColor=white"> 
     </div>
     <br/>
     <h3><strong>Front-end</strong></h3>
@@ -33,9 +34,9 @@
     <h3><strong>Framework & Library</strong></h3>
     <div>
         <img src="https://img.shields.io/badge/express.js-000000?style=flat-round&logo=express&logoColor=white"> 
-        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-round&logo=NestJS&logoColor=white"> 
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-round&logo=Flask&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-round&logo=Socket.io&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-round&logo=Socket.io&logoColor=white">
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-round&logo=NestJS&logoColor=white"> 
     </div>
     <br/>
     <!-- Database -->
@@ -55,10 +56,8 @@
     <br/>
     <h3><strong>Others</strong></h3>
     <div>
-        <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-round&logo=Adobe Photoshop&logoColor=white">
-        <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-round&logo=Adobe Illustrator&logoColor=white">
-        <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-round&logo=Adobe Premiere Pro&logoColor=white">
-        <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat-round&logo=Adobe After Effects&logoColor=white">
+        <img src="https://img.shields.io/badge/youtube-FF0000?style=flat-round&logo=youtube&logoColor=white">
+        <img src="https://img.shields.io/badge/instagram-FF0069?style=flat-round&logo=instagram&logoColor=white">
     </div>
     <br>
     <div>
