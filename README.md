@@ -56,7 +56,9 @@
     <h3><strong>Others</strong></h3>
     <div>
         <img src="https://img.shields.io/badge/youtube-FF0000?style=flat-round&logo=youtube&logoColor=white">
-        <img src="https://img.shields.io/badge/instagram-FF0069?style=flat-round&logo=instagram&logoColor=white">
+         <a href="https://www.instagram.com/2miun01/" target="_blank">
+            <img src="https://img.shields.io/badge/instagram-FF0069?style=flat-round&logo=instagram&logoColor=white">
+         </a>
     </div>
     <br>
     <div>
