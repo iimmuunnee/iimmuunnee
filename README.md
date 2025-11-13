@@ -44,22 +44,10 @@
     <br/>
     <!-- AI/ML -->
     <h3><strong>AI/ML</strong></h3>
-        <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"> 
         <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"> 
         <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"> 
-    <!-- Others -->
-    <br/>
-    <br/>
-    <h3><strong>Others</strong></h3>
-    <div>
-        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
-    </div>
-    <br>
-    <div>
-        <a href="https://github.com/iimmuunnee"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?                
-username=iimmuunnee&hide=jyupeternotebook&layout=compact&theme=nord&hide_border=true&langs_count=4" /></a> 
-    <div/>
     </hr>
+    <br/>
     <div>
                 <a href="https://github.com/iimmuunnee"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?                
 username=iimmuunnee&hide=jyupeternotebook&layout=compact&theme=nord&hide_border=true&langs_count=4" /></a> 
